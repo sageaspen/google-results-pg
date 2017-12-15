@@ -1,0 +1,98 @@
+body {
+	font-family: 'Roboto', arial, sans-serif;
+	font-size: 12pt;
+}
+
+div {
+	display: block;
+}
+
+.googlelogo div {
+	width: 120px;
+}
+
+.googlelogo img {
+	position: : absolute;
+	padding-top: 20px;
+	padding-left: 8px;
+}
+
+#ttp input {
+	position: absolute;
+	height: 34px;
+	width: 510px;
+	display: block;
+	visibility: inherit;
+    overflow: hidden;
+    text-align: initial;
+    text-overflow: ellipsis;
+    top: 39px;
+}
+
+.navbar ul {
+	position: absolute;
+	padding-left: 149px;
+	top: 60px;
+
+}
+
+.navbar li {
+	display: inline-block;
+	padding: 8px;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: gray;
+	font-size: small;
+}
+
+.subnavbar ul {
+	position: absolute;
+	padding-left: 180px;
+	top: 120px;
+}
+
+.subnavbar li {
+	display: inline-block;
+	padding: 10px;
+}
+
+.subnavbar a {
+	text-decoration: none;
+	color: gray;
+	font-size: small;
+}
+
+#toolpseudo a:hover {
+	background: #eee;
+	border: 1px solid #d7d7d7;
+	padding: 4px 15px;
+	text-align: center;
+	border-radius: 2px;
+}
+
+.results div {
+	display: block;
+	position: absolute;
+	top: 180px;
+	font-size: small;
+	width: 585px;
+	left: 149px;
+}
+
+.results a {
+	text-decoration: none;
+}
+
+.results h3 {
+	margin-bottom: 3px;
+}
+
+.results cite {
+
+}
+
+.results span {
+
+}
